@@ -1,3 +1,3 @@
 # docker-puppetshared
 
-data only container
+data only container: /var/forge/modules
